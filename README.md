@@ -47,3 +47,15 @@ No language indicated, so no syntax highlighting.
 s = "There is no highlighting for this."
 But let's throw in a <b>tag</b>.
 ```
+
+;;;
+{
+  "title": "About Front Matter"
+  "example": {
+    "language": "json"
+  }
+}
+;;;
+
+
+[logo]: https://docs.gitlab.com/ee/user/img/markdown_logo.png
