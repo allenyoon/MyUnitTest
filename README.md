@@ -57,10 +57,29 @@ But let's throw in a <b>tag</b>.
 }
 ;;;
 
+
+Quote break.
+
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+
+| header 1 | header 2 |
+| -------- | -------- |
+| cell 1   | cell 2   |
+| cell 3   | cell 4   |
+
+
 Inline-style:
-![alt text](img/markdown_logo.png)
+![alt text](https://docs.gitlab.com/ee/user/img/markdown_logo.png)
 
 Reference-style:
 ![alt text1][logo]
 
 [logo]: https://docs.gitlab.com/ee/user/img/markdown_logo.png
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
