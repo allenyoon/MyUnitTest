@@ -1,0 +1,17 @@
+{
+    "host": "192.168.28.33",
+    "username": "ticketpark",
+    "password": "ticketparkmember",
+    "remotePath": "/",
+    "protocol": "ftp",
+    "port": 2021,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ],
+    "ignoreWrongFileEncoding": true
+}
