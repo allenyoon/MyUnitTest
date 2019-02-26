@@ -57,5 +57,10 @@ But let's throw in a <b>tag</b>.
 }
 ;;;
 
+Inline-style:
+![alt text](img/markdown_logo.png)
+
+Reference-style:
+![alt text1][logo]
 
 [logo]: https://docs.gitlab.com/ee/user/img/markdown_logo.png
