@@ -67,6 +67,15 @@ Quote break.
 | cell 1   | cell 2   |
 | cell 3   | cell 4   |
 
+`#F00`
+`#F00A`
+`#FF0000`
+`#FF0000AA`
+`RGB(0,255,0)`
+`RGB(0%,100%,0%)`
+`RGBA(0,255,0,0.7)`
+`HSL(540,70%,50%)`
+`HSLA(540,70%,50%,0.7)`
 
 Inline-style:
 ![alt text](https://docs.gitlab.com/ee/user/img/markdown_logo.png)
